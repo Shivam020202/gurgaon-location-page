@@ -632,7 +632,7 @@ const Index = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="src/assets/gurgaon.jpg"
+                src="gurgaon.jpg"
                 alt="Branding Pioneers team - Best digital marketing company in Gurgaon"
                 className="rounded-xl shadow-lg w-full h-auto"
               />
@@ -958,7 +958,7 @@ const Index = () => {
               </div>
 
               <img
-                src="src/assets/branding-pioneers.png"
+                src="branding-pioneers.png"
                 alt="Branding Pioneers digital marketing agency office in Gurgaon"
                 className="rounded-lg object-center shadow-lg w-full h-52 object-cover"
               />
